@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-This application is deployed on Render and can be accessed [here](https://resume-matching-score.onrender.com/).
+This application is deployed on Render and can be accessed.
 
 
 
